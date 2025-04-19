@@ -1,0 +1,54 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Exfoliacion Corporal",
+            "precio": 80
+        },
+        {
+            "id": 2,
+            "nombre": "Masajes",
+            "precio": 60
+        },
+        {
+            "id": 3,
+            "nombre": "Manicure y Pedicure",
+            "precio": 100
+        },
+        {
+            "id": 4,
+            "nombre": "Plasma Rico en Plaquetas",
+            "precio": 100
+        },
+        {
+            "id": 5,
+            "nombre": "Limpieza Facial",
+            "precio": 60
+        },
+        {
+            "id": 6,
+            "nombre": "Depilación Láser Diodo",
+            "precio": 100
+        },
+        {
+            "id": 7,
+            "nombre": "Circuito de aguas",
+            "precio": 300
+        },
+        {
+            "id": 8,
+            "nombre": "Tratamiento Fotodinámico",
+            "precio": 400
+        },
+        {
+            "id": 9,
+            "nombre": "Diseño y Depilación de Cejas",
+            "precio": 50
+        },
+        {
+            "id": 10,
+            "nombre" : "Rejuvenecimiento Facial",
+            "precio": 150
+        }
+    ]
+}
